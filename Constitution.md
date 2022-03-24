@@ -89,7 +89,7 @@ This is the validator list that met the criteria in Q1 2022
   
 ## Validator Change Process
 
-- The Shade DAO governance will control the validator change process, however while Shade Protocol governance is still in development, the change process will be owned by trusted community members of Secret Network. 
+- The ShadeDAO governance will control the validator change process, however while Shade Protocol governance is still in development, the change process will be owned by trusted community members of Secret Network. 
 - The change process will initially be led by Pmuecke who is the lead of Secret Network’s governance committee. 
 - The goal is to make this an impartial process neutral to politics. 
 
@@ -102,11 +102,11 @@ This is the validator list that met the criteria in Q1 2022
 - A 1% fee is charged for minting stkd-SCRT from SCRT deposits. 
 - A 1% fee is charged for withdrawing stkd-SCRT to convert back to SCRT. 
 - The stdk-SCRT validator set is NOT the collector of fees.
-- These fees are collected by the Shade DAO.
-- The Shade DAO will control changes to the fee rate.
+- These fees are collected by the ShadeDAO.
+- The ShadeDAO will control changes to the fee rate. No changes shall be made to the fees until the ShadeDAO has full control as administrator of the stkd-SCRT contract.
 
 ## Constitution Amendment Process
-- The Shade DAO governance will control how amendments are made to this constitution.
+- The ShadeDAO governance will control how amendments are made to this constitution.
 - While Shade Protocol governance is still in development, the change process will be owned by the same community members that review the validator set as described in the Validator Change Process section above.  
 
 ## Constitution Amendment History
