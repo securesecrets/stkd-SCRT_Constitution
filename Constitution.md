@@ -1,5 +1,5 @@
 # stkd-SCRT Staking Derivative Constitution
-## what is stkd-SCRT?
+## What is stkd-SCRT?
 
 stkd-SCRT is a Shade Protocol staking derivative that represents staked SCRT on Secret Network, combining the cumulative value of deposited SCRT collateral with compounded staking rewards via the staking derivative contract. stkd-SCRT tokens are minted via deposits of SCRT.
 
@@ -76,11 +76,11 @@ This is the validator list that met the criteria in Q1 2022
 | Trivium / Trivium.Network           | 4.61%   |
 | Secret Keeper                      | 4.61%   |
 | Mr Roboto                           | 4.01%   |
-| Stake of Die                        | 4.01%   |
+| Stake or Die                        | 4.01%   |
 
 
-- Secure Secrets has the highest weighting in the validator set due to (1) running the bot that spends SCRT as gas to auto-compound staking rewards for all stkd-SCRT holders (2) primary developer group growing the product
-- Mr. Roboto & Stake or Die are also included as core developers of stkd-SCRT, but at a lower weight due to not meeting all the rules outlined above. 
+- Secure Secrets has the highest weighting in the validator set due to (1) running the bot that spends SCRT as gas to auto-compound staking rewards for all stkd-SCRT holders (2) primary developer group growing the product.
+- Mr. Roboto & StakeorDie are also included as core developers of stkd-SCRT, but at a lower weight due to not meeting all the rules outlined above. 
   
 ## Validator Change Process
 
@@ -93,7 +93,7 @@ This is the validator list that met the criteria in Q1 2022
 - Queries will be performed on a regular basis to understand the uptime of each node. This information will be aggregated to rank validator performance and apply any rules related to this measure outlined above. Validators will be penalized for lack of information, implying one full period of performance is required to be included.
 
 
-## Product Fees
+## stkd-SCRT Fees
 - A 1% fee is charged for minting stkd-SCRT from SCRT deposits. 
 - A 1% fee is charged for withdrawing stkd-SCRT to convert back to SCRT. 
 - The stdk-SCRT validator set is NOT the collector of fees.
@@ -101,7 +101,7 @@ This is the validator list that met the criteria in Q1 2022
 - The Shade DAO will control changes to the fee rate.
 
 ## Constitution Amendment Process
-- The Shade DAO governance will control how amendments are made to this constitution
+- The Shade DAO governance will control how amendments are made to this constitution.
 - While Shade Protocol governance is still in development, the change process will be owned by the same community members that review the validator set as described in the Validator Change Process section above.  
 
 ## Constitution Amendment History
@@ -110,6 +110,6 @@ Github change history can be viewed to see changes to this document. The table b
 
 | Amendment Number | Description                   |  date     |
 |----|---------------------------------------------|-----------|
-| 1.1  | This is an example amendment description. Referencing forum discussions is recommended.   | 3/24/2022 |
+| 1.1  | This is an example amendment description. Referencing public discussions such as a forum thread is recommended.   | 3/24/2022 |
 
 (Amendment #1.1 is just an example and should be modified whenever a real amendment is put in place)
