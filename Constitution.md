@@ -5,8 +5,13 @@ stkd-SCRT is a Shade Protocol staking derivative that represents staked SCRT on 
 
 When stkd-SCRT are redeemed, they are burned in return for the originally deposited SCRT and respective accumulated staking rewards after a 21 day unbonding period. When stkd-SCRT is minted or burned, a fee goes directly to the ShadeDAO — creating a revenue stream for SHD holders.
 
-## Validator Selection
+## Validator Set
+The stkd-SCRT contract automatically stakes the SCRT that users deposit when minting stkd-SCRT. This staked amount is divided between a set of validators at specific wights as programmed into the contract. This validator set and/or weights can be modified by the administrator of the contract. 
 
+## Contract Administrator
+At the launch of stkd-SCRT, the contract will be administered by a multi-sig wallet controlled by core developers of Shade Protocol. Once Shade Protocol has completed the development of its governance module, the control of the stkd-SCRT contract will be handed over to the ShadeDAO to be run by the Shade community.
+
+## Validator Selection
 We hope that by outlining the requirements to join the validator set we can create transparency and foster inclusion. Exclusion from the list is not permanent and validators should be able to understand how they can be included in the next update. The barrier to entry may require validators to compromise on fees, to participate in governance, or to make their infrastructure more robust. These rules reflect a balance that we feel is best for the product and the network.
 
 
