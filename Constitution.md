@@ -6,7 +6,7 @@ stkd-SCRT is a Shade Protocol staking derivative that represents staked SCRT on 
 When stkd-SCRT are redeemed, they are burned in return for the originally deposited SCRT and respective accumulated staking rewards after a 21 day unbonding period. When stkd-SCRT is minted or burned, a fee goes directly to the ShadeDAO — creating a revenue stream for SHD holders.
 
 ## Validator Set
-The stkd-SCRT contract automatically stakes the SCRT that users deposit when minting stkd-SCRT. This staked amount is divided between a set of validators at specific wights as programmed into the contract. This validator set and/or weights can be modified by the administrator of the contract. 
+The stkd-SCRT contract automatically stakes the SCRT that users deposit when minting stkd-SCRT. This staked amount is divided between a set of validators at specific weights as programmed into the contract. This validator set and/or weights can be modified by the administrator of the contract. 
 
 ## Contract Administrator
 At the launch of stkd-SCRT, the contract will be administered by a multi-sig wallet controlled by core developers of Shade Protocol. Once Shade Protocol has completed the development of its governance module, the control of the stkd-SCRT contract will be handed over to the ShadeDAO to be run by the Shade community.
@@ -20,7 +20,7 @@ We hope that by outlining the requirements to join the validator set we can crea
 | No Exchange Validators              | Qualitative  | Increase Network Decentralization |
 | No 0% Validator in Top 20           | Quantitative | Increase Network Decentralization |
 | Reasonable Gas Fee (<=0.0125 uSCRT) | Quantitative | Network Usability                 |
-| Participation in 66.6% of Gov Props | Quantitative | Network Sustainability            |
+| Participation in 50% of Gov Props | Quantitative | Network Sustainability            |
 | Uptime > 97.5%                      | Quantitative | Product/Network Sustainability    |
 | Top 66.6% of Nodes in Uptime        | Quantitative | Product/Network Sustainability    |
 | Top 80% of Nodes in SCRT Staked     | Quantitative | Product Sustainability            |
@@ -38,7 +38,7 @@ We hope that by outlining the requirements to join the validator set we can crea
 ### Reasonable Gas Fee
 - In the past we’ve seen validators that while producing blocks, do not validate transactions. This led to higher fees, as well as failed transactions. With the recent upgrade it’s no longer as much of an issue, but something to keep an eye on.
 
-### Participation in 66.6% of Gov Props
+### Participation in 50% of Gov Props
 - We believe that validators should be rewarded for the effort they put into the chain. Validators who stay current on their voting (even if it’s an abstain) show a level of dedication to the SCRT ecosystem. This will be judged on the past quarter’s governance props.
 
 ### Uptime >97.5%
